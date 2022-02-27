@@ -1,0 +1,320 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quæries proposd for the agitators in the Army (or their assistants elsewhere, who are intrusted, or do intermeddle in those high matters of peace and warre) more than foure moneths ago, and now published in pursuit of satisfaction, and with intent of profit towards all, and the state.</title>
+            <author>Jackson, Richard, 1621-1677.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87615</idno>
+            <idno type="STC">Wing J87</idno>
+            <idno type="STC">Thomason E412_22</idno>
+            <idno type="STC">ESTC R202648</idno>
+            <idno type="EEBO-CITATION">99862865</idno>
+            <idno type="PROQUEST">99862865</idno>
+            <idno type="VID">161253</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87615)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161253)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quæries proposd for the agitators in the Army (or their assistants elsewhere, who are intrusted, or do intermeddle in those high matters of peace and warre) more than foure moneths ago, and now published in pursuit of satisfaction, and with intent of profit towards all, and the state.</title>
+                  <author>Jackson, Richard, 1621-1677.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on B4r: Richard Jackson.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through; pages cropped with loss of text.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 3d 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:161253:1" rendition="simple:additions"/>
+            <head>QUAERIES PROPOSD FOR THE AGITATORS in the Army (or their Aſſiſtants elſewhere, who are intruſted, or do intermeddle in thoſe high matters of Peace and Warre) more than foure Moneths ago, and now publiſhed in purſuit of ſatisfaction, and with intent of profit towards all, and the State.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">S</seg>Eeing that they (like former Law-givers, who painted Religion and Juſtice according to the variety of their own paſſions) are alſo men and therefore vain and irreſolute Authours, what hopes can they hold forth unto us of any ſuch general policy, or publike pro<g ref="char:EOLhyphen"/>viſion, as ſhall ſubſiſt without other aid, (than ſpringeth up of his own proper root, by the ſeed of univerſall reaſon, planted in every man that is not unna<g ref="char:EOLhyphen"/>tural) and ſerve to reduce by degrees all our Lawes into ſuch a forme of equitable Polytey, that all ſhall ealy underſtand, how it is more for their profit to obey then break them.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>Seeing Wiſedom will never ſubordinate her ſelfe unto our ſenſe and underſtanding, but that we reaſon raſhly and diſcourſe <hi>at ran<g ref="char:EOLhyphen"/>dum,</hi> ſhe engaging our Conſultation in ſuch trouble and incertainty, as ſtaggereth our reſolution: whether is there any one of them, that hath ſuch a forme of the total frame in his head, as ſafely and ſurely to range into order ſo many ſeveral pieces without incurring the curſe, which by confuſion of Languages came upon <hi>Babels</hi> Brick-layers, in their frivolous and fantaſticall Enterpriſe of raiſing that high-towering <hi>Pyramis.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <pb n="2" facs="tcp:161253:2"/>
+               <head>III.</head>
+               <p>When your Complaint againſt the Lawes and Government ſhall be acknowledged as juſt and rational; have you any commodious forme of combining ſociety, ſo anſwerable to the rules of equity, that no parties concerned in the alteration how conſiderable ſoever, ſhall have any juſt occaſion to complain.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Seeing that in all the Sects which we know, whether Pontifical, Epiſcopal, or Presbyterial, Browniſt, Anabaptiſt, or Independent: the rules of our life are continually ill ordered, with a very partial relation and imperfect deſcription of our duty; then whether have you any general rule of good education, or methode of moral in<g ref="char:EOLhyphen"/>ſtruction, which may be admirable to all Opinioniſts (of how dif<g ref="char:EOLhyphen"/>ferent inclination and practiſe ſoever they be) and ſufficient to com<g ref="char:EOLhyphen"/>pleat the vertues and happineſſe of a common Polyte.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>In caſe they have no ſuch methode, what Councel will they call or hold ſo to diſcuſſe the doubt, as without partiality or prejudice (which forme of education hath implanted in the ſpirit) to pitch upon that which is ſo equal to all particulars, as never ſhall exalt ignorance, weakneſſe or hypocriſie, in envie or competition of ſufficiency, knowledge or ſincerity.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI.</head>
+               <p>Seeing that your exquiſite wits and more penetrating ſpirits are ſo unſettled in their opinions and cuſtomes, that it is hard to finde any of them orderly and ſociable, what more ſufficient meanes have you (then other men) ſo to compoſe the State, as that the diverſity of opinions (whereby the minde once exempted, from the tyranny of cuſtome ſcattereth her ſelfe in a thouſand divers wayes) ſhall con<g ref="char:EOLhyphen"/>duce to the moſt noble and pleaſant exerciſe of the ſpirit, without any prejudice to publike juſtice, or the common polytes.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>In caſe ſome by the extremity of a curious ſearch, after the firſt and univerſal cauſes do fall into ſavage opinions, what reaſon have you able to regular our cuſtomes and manners, or what rule of life and conſcience is able to rancounter or convince them.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>Seeing that perfidious repreſentatives, for deſerting their princi<g ref="char:EOLhyphen"/>ples, diſappointing our truſt, and deſtroying our rights and liberties
+<pb n="3" facs="tcp:161253:2"/>
+deſerves all oppoſition and puniſhment, as the worſt kinde of traite<g ref="char:EOLhyphen"/>rous thieves and murderous malefactours, are they not as ſottiſh and malicious, who from paſſion, intereſt, and opinionative preſumption, ſtudy how to promote the diſtemper and confuſion, without any pro<g ref="char:EOLhyphen"/>bability of abſolute cure or general amendment of condition. And are not all ſuch much more wicked and pernicious, as ſhall abuſe their pretentions unto baſe ends, actively ſtriving in their cauſe, to ſubvert all government without any care of returning the ſame, or any further ſcope than to binde up the breaches of their own eſtate, by enlarging thoſe of the body politickes.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>Seeing we have found by the ſad experience in the change of men the ſelfe-ſame or ſemblable manners, ſo that theſe and thoſe, great and ſmall, paſt and preſent, have all trode in the ſame ſteps, aiming onely at the fair white of their own ſole intereſt; how can you aſ<g ref="char:EOLhyphen"/>ſure us, that your greedineſſe is more capable of moderation, than that of other men, (who of power, riches, or pleaſures embrace more than they can graſpe or hold) or that you can better bridle your paſſi<g ref="char:EOLhyphen"/>ons, than ever could your predeceſſours, or which is neceſſary upon ſuch an exigent, that you will alwayes preferre vertue, truth, and goodneſſe, before all inordinate appetites for your ſelves and poſte<g ref="char:EOLhyphen"/>ritie.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>Seeing that envie is no leſſe ordinary in the meaner ſort than ſcorne and indignation in the great and mighty: how can the Com<g ref="char:EOLhyphen"/>manders ſecure us and themſelves againſt the common Souldiers, <hi>viz.</hi> that they ſhall not rebell againſt the Law of Nature, in abominating all ability of brain and ſpirit, exceeding their own proportion, and ſo farre imitate thoſe brutiſh Epheſians (who baniſhed <hi>Hermodorus</hi>) as by degrees to eſtabliſh ſomething anſwerable to the Oſtraciſme, when it was ſo abuſed in <hi>Athens.</hi>
+               </p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>Finding it evident both by our zealous Preachers, and the preciſeſt of Sectarian Pretenders, that there is ſmall or no correſpondency be<g ref="char:EOLhyphen"/>tween Precept and Practiſe; how can you overcome and encoun<g ref="char:EOLhyphen"/>ter this inveterate cuſtome, wherein men let Precepts and Lawes fol<g ref="char:EOLhyphen"/>low their way, whileſt they keep another courſe, both by iniquity of life and contrariety of opinion and judgement.</p>
+            </div>
+            <div n="12" type="part">
+               <pb n="4" facs="tcp:161253:3"/>
+               <head>XII.</head>
+               <p>Whether ſuch refined lawes of life and rules of conſcience, as might ſuffice to rectifie this baſe and monſtrous deformity, would not alſo prove the moſt compendious way of compoſing all matters, and de<g ref="char:EOLhyphen"/>termining all differences as touching land or eſtate. If ſo be ſome of the wiſeſt amongſt us were appointed to decide them at the firſt ſight, without tying them to preſidents and conſequences; or what neceſſity is there that our lives and conſciences ſhould be go<g ref="char:EOLhyphen"/>verned by one Law, and our lands and eſtates by another.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>Whether are they ſo farre convinced of their ignorance, weak<g ref="char:EOLhyphen"/>neſſe, and irreſolution, as to renounce thoſe priviledges, <hi>viz.</hi> to ſway, appoint, or eſtabliſh, except by the common conſent of that ſociety whereof they are citiſens. And whether they conceive this World to be a meer School of Inquiſition, preferring ſearch upon a ſenſe of ignorance and incertainty before falſe and miſtaken Principles: Or in caſe the temper of Plebeians (who in number alwayes exceed the apprehenſive) be found unfit for the ſtronger nutriment of refined reaſon, and framed onely to common ways, received by Authority of Law and reverence of antient cuſtome: whether ought not your more capacious ſpirits (as ſympathiſing members of ſociety) if not to move according to their meaſure, by ſtooping to the lure of anothers bare leſſon, yet ſo farre to condiſcend as never to provoke them with ſcorne or inſultation? No man (in my conceit) can ima<g ref="char:EOLhyphen"/>gine any wilfull or intended miſchiefe from this Army; for then of all others they ſhould become moſt vitious, wicked, and odious, to caſt themſelves into examples whereof they both felt and puniſhed the horrour and miſchiefe: but ſeeing their late Oppoſites (lead on by the blinde fury of ſome popular Rabbies and impetuous Plebei<g ref="char:EOLhyphen"/>ans) have bewayed their zealous ignorance and unheedineſſe, in at<g ref="char:EOLhyphen"/>tempting what they underſtood not. Such Quaeres may ſerve to awa<g ref="char:EOLhyphen"/>ken the Armies circumſpection, and if they will make plain and open profeſſion, in anſwer to prarticulars, methinketh it might prove ſo ſatisfactory to all indifferent men, as may convince moderat opponents, and becalme the paſſionate clamours of all ſpitefull adverſaries. A Copie of theſe Quaeres I left in the Army, at the deſire of one or two amongſt them, more than two moneths ago. The occaſion of compoſing them was thus, having peruſed two An<g ref="char:EOLhyphen"/>ſwers
+<pb n="5" facs="tcp:161253:3"/>
+to the firſt Eight Quaeres, the one very briefe, but not fully home to the buſineſſe: the other large enough, but relying wholly upon our national Law, without once lanching into the natural, the proper meanes of ſatisfying ſuch Propoſals. I then ſcribbled out my conception in anſwer to the ſame, annexing theſe as more pertinent, charitable, and impartial, tending to prevent their ſteering at hazard, the fate of all ſuch as have no certain or known Port to ſail unto. But fearing in ſuch a ſuper fluity to ſurfet the world with ſo large a Pam<g ref="char:EOLhyphen"/>phlet, I forbare to publiſh any thing beſides a certain ſubitane appre<g ref="char:EOLhyphen"/>henſion, printed for the better purſute of more full and ample ſatiſ<g ref="char:EOLhyphen"/>faction, both to my ſelfe and others in the main.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>Seeing that <hi>Wat Tyler,</hi> when waited upon and worſhipped, by clownes, fooles, and falſe knaves, was known to utter words to the ſame purpoſe &amp; effect, which <hi>Caeſar</hi> ſpake when he ſaid, <hi>debere homines conſideratius jam loqui ſecum, ac pro legibus habere<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dicat, id eſt,</hi> that thence forward men muſt more deeply Ponder, How and what they ſpake unto him; taking and approving his anſwers and ſentences, for Laws; and reſolutions And conſidering withall how the ſpirit of Kings and <hi>Mechanicks</hi> is caſt in one kind of mould; that later in all likely hood by the baſeneſſe of his breeding, being more in bon<g ref="char:EOLhyphen"/>dage to ignorance cruelty, envy and injuſtice.</p>
+               <p>How will you clear it unto us, that none of theſe, who preſume to ſteere your counſells, are impatient of and oppoſite unto all poli<g ref="char:EOLhyphen"/>ticke ſuperiority? whenſoever it refuſeth to take his inſtruction? or do ſerve his turn induſtriouſly labouring the diſgrace of al ma<g ref="char:EOLhyphen"/>giſtrates, one after another (under which we are placed by ancient cuſtome and unſearchable providence which he deſpiſeth) And for this end as a cunning <hi>Boutefue</hi> caſting abroad the ſmoaking brands of envy hatred and contention, which ſeldome faile to fill the minds of neighbours and followes with fierceneſſe, malice and combuſtion, And hath already ſo farre prevailed, to the ſubverſion of government and Abolition of order here in <hi>England,</hi> that it fully inableth not baſe malignants? but even the better ſort of Royaliſts, to brave us as yet, with unanſwerable reproaches Or that never a one of them, are aemulous of <hi>Caeſar</hi> in an Antipodian or oppoſite kind of Ochlocrati<g ref="char:EOLhyphen"/>call ambition aiming at eminency and ſuperiority by popular con<g ref="char:EOLhyphen"/>fuſion, as he did by the conqueſt and ruine of his Countrey; And as
+<pb n="6" facs="tcp:161253:4"/>
+ready to rejoyce in the rubbage of all our ruinous Diſorders, as ever was the other to brag of making that braveſt Republique of <hi>Rome,</hi> A ſhapeleſſe Maſſe, beſides the name or lumpe receiuing neither ſhew nor forme of ſeveral members, alwayes diſtinguiſhed in any wel-or<g ref="char:EOLhyphen"/>dered Bodie.</p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Have you found out a way or mean of judging by Law, chu<g ref="char:EOLhyphen"/>ſing by reaſon, and advancing men onely by perſonal merit: ſo that every one (excepting the fault of his own idleneſſe, weakneſſe, or debauchery,<note place="margin">Lib. ep. <hi>1.</hi> epiſt. <hi>18.</hi> Mea (con<g ref="char:EOLhyphen"/>tendere no<g ref="char:EOLhyphen"/>li) ſtulti<g ref="char:EOLhyphen"/>tiam pati<g ref="char:EOLhyphen"/>untur opes tibi parvu<g ref="char:EOLhyphen"/>lares eſt.</note> may live by Law, and not in ſuch a way of meer re<g ref="char:EOLhyphen"/>compence and curteſie, as maketh the wiſe oftentimes to turne fool, to honour him that is ſo ſoothing the defects, and flattering the vices of ſome proud Worldling, who arrogateth all to the prerogative of his fortune, as <hi>Horace</hi> hath well expreſſed; or againſt the rights of truth and honeſty, to yield all advantages of authority to a wilfull or ignorant Patron, on whom his livelihood chiefly dependeth.</p>
+               <floatingText type="letter">
+                  <body>
+                     <opener>
+                        <salute>To my wel-beloved Friends the Agitators with their Aſsistants in the Army, Citie or elſewhere.</salute>
+                     </opener>
+                     <p>GEnerous Souldiers, or Souldiers and Gentlemen having uſed heretofore, bluntly to beſpeak men of greater ſtate, and higher quality, it would ill beſeem me to make my paſſage unto men of no-better breeding than my ſelfe, by paraſitical addreſſes and inſinuati<g ref="char:EOLhyphen"/>ons, a meer ceremony of civility, yet more pernitious to ſociety, than thoſe other which are now aboliſhed, leaving the ſame with pride and hypocriſie both which I hope you do abominate, together with that childiſh ambition, of vain-glorious men, who by a magiſtral and tyrannical countenance make great apperance of more then is in them A copy of theſe Quaeries, was at the deſire of one or two, left a<g ref="char:EOLhyphen"/>mongſt you, more than two Moneths ago, from a charitable conceit that without a ſad conſideration of ſuch particulars, you could never ſuffice for thoſe publike ends you have pretended; gaining thereby beliefe and good will from a miſerable People, very apt to miſtake; though yet they never found other than increaſe of grievances under the change of Oppreſſours: for to vindicate our Engliſh Nation ſo deeply ingaged in diſgrace, and to free our neckes from all manner of yoakes, which fraud and violence hath faſtened upon us, requireth perfect intelligence of truth, juſtice, and pietie, together with the happieſt Modell of external order and humane politey: of which if
+<pb facs="tcp:161253:4"/>
+you have any knowledge, it muſt not take its forme from your opi<g ref="char:EOLhyphen"/>nion, more than from that of the Presbyterians, (which you accuſe as ſelfe particular, and therefore traiterous and pernitious, though their pretences be very paralell to your expreſſions in your Papers) but from the evidence of univerſal reaſon unto which this inquiſition may urge and direct you, preſſing for ſuch an ample expreſſion of your deſires, as may not onely exclude all jealouſie of your intenti<g ref="char:EOLhyphen"/>ons, but almoſt juſtifie the imitation of <hi>Pericles,</hi> who unable to carry the People by perſwaſion, drive them by force to that which was beſt for their own welfare and the common felicity. Now ſhould you once appear inſufficient to ſpeake ſatisfyingly unto ſuch particulars, your general profeſſions, would never give ſo much evidence of pub<g ref="char:EOLhyphen"/>like ends, as may acquit you from being acceſſory to the prodigal ex<g ref="char:EOLhyphen"/>pence of ſo much money and bloud, (which I am confident was free<g ref="char:EOLhyphen"/>ly powred out by ſome, without any further aime, than to the inter<g ref="char:EOLhyphen"/>eſt of all and the State, for publike juſtice and preſervation) much leſſe approve and juſtifie your knowledge, truth, and ſincerity, as meriting all advantage of Power and Authority to act over us, and to execute vengeance upon your Opponents. Seeing you have no more appearance of the beſt Politie, than had the Authour of <hi>Plain Engliſh,</hi> who having imbated the People with ſeditious Paſſages, hath for ſome yeares ſpace, brought us to play at Blinde man Bufle, almoſt to the bane of the Body Politicke. In which Tragical Paſſages,<note place="margin">
+                           <hi>Wherein alwayes</hi> Ne maje<g ref="char:EOLhyphen"/>ſtatis le<g ref="char:EOLhyphen"/>dentem maneat Pena, ma<g ref="char:EOLhyphen"/>jeſtas ver<g ref="char:EOLhyphen"/>tenda. Iure enim ſemil vio<g ref="char:EOLhyphen"/>lato ſecun<g ref="char:EOLhyphen"/>do at ter<g ref="char:EOLhyphen"/>tio id violan<g ref="char:EOLhyphen"/>dum quod ne niſi vio<g ref="char:EOLhyphen"/>letur; id ol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m lae<g ref="char:EOLhyphen"/>ſum tur p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> habeatur &amp; infame &amp;c.</note> ſome of you, ſiding with you or aſſiſtant unto you are coceited by the more ſa<g ref="char:EOLhyphen"/>gacious have ſlily acted their parts, not onely by framing and promoting a root<g ref="char:EOLhyphen"/>ing Petition, ſtriking altogether at alteration, but often after, that by courting the Parliament according to the ſenſe and inclination of thoſe Members, who intended perchance to imploy the Sectaries, as we do outcaſt perſons in executi<g ref="char:EOLhyphen"/>on, who yet patronize the Parliament in every particular (during the dread of the Cavaliers, whoſe bitter hoſtility at that time united their mindes and divi<g ref="char:EOLhyphen"/>ded intention) endeavouring to make all their adverſaries extremely odious: and (as ſome aſsert) to imbitter mens mindes againſt His Majeſty more than was either juſt or reaſonable making account thereby to imbarque the Parlia<g ref="char:EOLhyphen"/>ment in ſuch diſadvantage, that according to the common maxime of Policy uſual in ſuch caſes, they could never returne dry-ſhod: Nor to their ends have they omitted by partial reaſons (ſavouring of poor ſmattering in Apoſtolical Scriptures) in the common peril, to reconcile the Proteſtant to the Puritan, not ſparing by calumnious reproaches againſt the beſt and honeſteſt of the Epiſcopal Preachers to ſacrifice unto the ſpite and envie of the People, as unto wicked ſpirits ever ready to accept of ſuch offerings, nor did they neglect upon any oportunity, to move and urge the Parliament (more powerfully by the propenſi<g ref="char:EOLhyphen"/>ty of ſome flexible parties) to vote and act according to the emergency of oc<g ref="char:EOLhyphen"/>caſion, hoping not onely to draw them into contradictions, but alſo ſo farre to intrench upon the ſtanding Lawes as might <hi>gradatim</hi> induce them to trample up on them, in fear of abſolute condemnation by them, and at the worſt afford ſuf<g ref="char:EOLhyphen"/>ficient
+<pb facs="tcp:161253:5"/>
+matter to fetch them over (perchance ſometimes againſt their affections) to approve and promote further deſignes, maugre the reluctancy of plain men, and common people (as they call them) who grew ſtill more diſtaſted with the ſmart and trouble of alteration. And then upon appearance of popular diſaffection towards the Parliament, like cunning Oratours they dandle them with words, as the onely people jealous of their honour, flat<g ref="char:EOLhyphen"/>tering their perſons with paraſitical apologies and attributions, as ſoothing their authority as never guilty of the leaſt injury to any juſt intereſt either at home or abroad: watchfully keeping in the mean ſpace a catalogue of all theſe actions, votes, and ordinances (which in my conceit are onely juſtifiable, either by ſupreme reaſon of ſtate, in reſiſtance of danger<g ref="char:EOLhyphen"/>ous innovation, or elſe by a certain aime at a known, juſt, and intaxable conſtitution) as ſo many ſteps of diſcent towards their deſigne, howſoever obſcure, hazzardous or deſtructive; ſo that all they do is under condition that thoſe at the helme ſhall ſteer according to the cunning and direction, of ſuch as themſelves, who ſtand like Maſters on the quarter-deck; and onely looking on will needs underſtand more than the gameſters. And when they diſteliſh their doings, they urge againſt them theſe very votes and actions which were per<g ref="char:EOLhyphen"/>chance obtained (if not extorted) by their own inſtance and importunity, talking againſt them as the worſt of Tratours now apoſtatiſing from the publike, in refuſing to act for and according to their purpoſe, who call themſelves the godly, honeſt, and wel-affected the good and pretious of the land, unto whoſe intereſt and ſatisfaction the eaſe and eſtates of all other men muſt in ſome kinde or other be alwayes ſubordinate; which clew of diſcourſe or conſi<g ref="char:EOLhyphen"/>deration, might have carried our ſelfe gainſaying Obſervatour, out of that Labyrinth of Court Logicke, wherein he loſt himſelfe to exclamation and aſtoniſhment, for that ſome Lords and Commons have ſerved the Deſigne of ſuch as theſe whileſt they onely aimed at their own, and that ſuch as theſe were ſo forward in promoting their deſires, becauſe they were ſo vehemently affected to their own; was the ſtrongeſt ingredient in Mr. <hi>Pyms</hi> magical incantation which carried on the buſineſſe in contempt of the moſt mercurial ſpirits, ſtupi<g ref="char:EOLhyphen"/>fying thoſe vigilant wits, and terrifying thoſe reſolute hearts, amongſt the Royaliſts; maugre the Kings Authority, the Commons oppreſſion and the majority of ſuch a peo<g ref="char:EOLhyphen"/>ple, who were perchance incapable of any ſuch furious motive, as is the burning love of novelty, with eager appetite towards alteration. But who ſo ſhall ſeriouſly conſider the va<g ref="char:EOLhyphen"/>riation of ſuch. One while making the Parliament the ſupreme power of this Nation, unto whom as the higheſt Authority, by the peoples deputation, the General and the Army (as ſervants of the people) are under pain of Treaſon to be in all things reſponſible; another while clamouring againſt it, as a den of thieves, or neſt of Traitours; who have loſt all the eſſence of Authority, reteining nothing but the meer name, unto which no obedience is due; but abſolute withdrawing of truſt, under pain of being thought partakers with the murder<g ref="char:EOLhyphen"/>ers, he (I ſay) whoever ſhall obſerve them ſometime magnifying and applauding, then a<g ref="char:EOLhyphen"/>gain reproaching and threatning the ſame Parliament, as if it muſt go and come, be high or low, baſe or honourable, according to the the intereſt of their buſineſſe, ſhall evidently ſee that for all their clinging to, or cloſing with the Houſe of Commons, they will be found un<g ref="char:EOLhyphen"/>to the Parliament in a ſmall ſpace no other than as the Ivie that ruines the wall that it im<g ref="char:EOLhyphen"/>braceth. But to ſpeak unto your ſelves more particularly, if neither your hearts nor braines, have any thing in readineſſe to hold out in way of reſolution to the like honeſt and neceſſary inquiſition than all your ingagements will hardly appear, any other than conſpi<g ref="char:EOLhyphen"/>racy againſt the State, as a meer combination of ſome ſilly humoriſts, carried on againſt ar<g ref="char:EOLhyphen"/>bitrary power, by the blindneſſe of their own ſelfewill, to ſatisfie the ſpite of an eager minde and revengeful malice; nor ſhall your pretence for the publique be otherwiſe interpreted, than as that of the Apoſtolical Purſe-bearer, who grudging his Lord and Maſter the honour and pleaſure of ſo good and ſweet an ointment, handſomely covered his envie and covetouſ<g ref="char:EOLhyphen"/>neſſe under profeſſed affection of charity to the poor, for the ſtill ſad experience of ſmal rea<g ref="char:EOLhyphen"/>lity
+<pb facs="tcp:161253:5"/>
+towards the publike, hath occaſioned ſundry perſons to conceive, that ſuch kind of flouriſhes, are but ſtudied pretences, which may ſerve as a ſtalking horſe to ſome amongſt you; who are eſntinally aiming at ther owne hidden ends, making vſe of you and others as apteſt inſtruments for ſuch intent, and having neither care nor fear of burning others houſes to roaſt their own beefe, under the faireſt cloak of extreame cha<g ref="char:EOLhyphen"/>rity ſo often profeſſed. Or if ſuch notions entring into your noddles, were never yet throughly underſtood it may bee thought an inſufferable inſolence ſelf-over-weaning, ſo to ar-e rogate unto your ſelves and partizans, as if all were palpablr injuſtice, &amp; inexpiable treaſon, which did either oppoſe, or might diſappoint your ends and purpoſes. When for ough-that appeareth, upon the ſitting, you are found ſo full of partir<g ref="char:EOLunhyphen"/>ality, ignorance, and uncertainty, that it doth embolden us you felowes, and abate the fear of theſe your betters, who went before you, which will much aggravate thoſe audacious paſſa<g ref="char:EOLhyphen"/>ges (ſingled out of ſeverall Pamphlets by Squire <hi>Pryn,</hi> and our Scottiſh Brethren) that fooliſhly did open defiance to Royall Majeſty, as if they were but entring an ordinary quarrell with one of their equals, for though ſome wiſe and high-ſpirited men, may only mock at their raſhneſſe and preſumption, yet if unfit for reply to ſuch Propoſals, ſuch frantike ebullitions will be thought to ariſe, rather from rancorous ſpite againſt Principality, then any rationall hope of better regling our ſo<g ref="char:EOLhyphen"/>ciety. Nor upon ſuch ſuppoſall ſhall ye be onely charged with ignorance and preſumption, in not feeling the miſery of your own fate or ambitious affectation, to keep a fumbling in State affaires, for which you are as fit as a meere ſculler in the River of Thames to navigate a ſhip in the Ocean, without ever ſtu<g ref="char:EOLhyphen"/>dying his Plats-compaſſe, and opticall or Geometricall Inſtru<g ref="char:EOLhyphen"/>ments. For being little verſt in politicall ſpeculations, and ne<g ref="char:EOLhyphen"/>ver bred in the ſchoole of Experience.</p>
+                     <p>How ſhall your ſtatizing capacity exceed the meaſure of your converſation with able Miniſters and Councellours of State, the ordinary meane for a practicall underſtanding of all Politicall buſineſſe? except you prove State intelligencer, (as ſome boaſt of Scripture ſenſe) to flow upon you by inſpi<g ref="char:EOLhyphen"/>ration; you will be found not unlike thoſe infants, whoſe na<g ref="char:EOLhyphen"/>tural<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> were cut out for the Cart or Plow. Shop or VVarehouſe; &amp; yet he the Parents vvealth or ambition, find themſelves after, <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> entangled amongſt a diſtracted multitude of Bookes and papers, vvhich aggravateth t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> guilt of great preſumption, in <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> againſt thi lavv of nature, and the moſt brazen opinion
+<pb facs="tcp:161253:6"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb facs="tcp:161253:6"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="10" facs="tcp:161253:7"/>
+to the ſenſe of that moſt truly noble, and moſt pithy Saty<g ref="char:EOLhyphen"/>riſt.</p>
+                     <q>
+                        <l>Publica lex hominum natura<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> continet hoc fas,</l>
+                        <l>Vt teneat vetitos, inſcitia debilis actus.</l>
+                        <l>Navem ſi poſcit ſibi peronatus arator</l>
+                        <l>Luciferirudis; clamat Mèlicerta perîſſe</l>
+                        <l>Frontem de rebus.</l>
+                     </q>
+                     <p>But you ſhall be accuſed alſo of malignity; for if it were the opinion not only of <hi>Plato,</hi> but (as <hi>Plutarch</hi> affirmeth) of <hi>Favonious,</hi> that an honeſt man can never allow of that Refor<g ref="char:EOLhyphen"/>mation, which diſturbeth and hazardeth the whole eſtate, or that any malady in a Common-wealth ſhould be encountred with ſo deadly a drug, <hi>as is the deſtroying Serpent of Civill war,</hi> then how ſhould you anſwer the inditement of ſottiſh malig<g ref="char:EOLhyphen"/>nity, in curing Diſeaſes by death and particular Faults, by uni<g ref="char:EOLhyphen"/>verſall confuſion, ſtill pulling down all perſons and things, not knowing what to plant in their places.</p>
+                     <p>Therefore, <hi>in fine,</hi> if the ſhoulders of your ſufficiency ſinke under the burden of ſuch demands, never thinke to cenſure and controle, to ſway and appoint. But if I may perſwade you, who (in the conſcience of my moſt eſſentiall qualities, igno<g ref="char:EOLhyphen"/>rance, and weakneſſe) dare not urge any thing quit ingeniouſly thoſe uſurped Priviledges, and diſcreetly addreſſe your ſelves unto the conduct of ſome wiſe councell of peace and war, ra<g ref="char:EOLhyphen"/>ther then to raigne as a kindle of chieftaines in the dangerous conduct of ſtaggering troopes &amp; ignorant ſoules, who are ea<g ref="char:EOLhyphen"/>ſily excited to audacious enterpriſes. Alwayes obſerved (which you ſhould conſider) to be. 1. <hi>Prima ſpeci laeta.</hi> 2 <hi>Tractatu dura</hi> 3. <hi>Eventu triſtia.</hi> Firſt, whatſoever faire hopes may bee holden forth unto you, that the work is Gods, who will carry it on; yet I do not ſee how any rationall Chriſtian in all your Regiments, can ever in ſuch a caſe, promiſe any ſuccour ſim<g ref="char:EOLhyphen"/>ply Gods, without and beyond your own co-operation. For though ſome hath obſerved, that <hi>fortuna facilio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>em aliquando praebet actionibus nonnullis even um, quas ipſa ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>la, abditiſſima ratione propagavit.</hi> Yet how ſhould the God of order, and of the ſpirits of all fleſh, ever eſpouſe that enterpriſe, which through the apparent ignorance or malignity of the mannagers, tend<g ref="char:EOLhyphen"/>eth only to confuſion, and to the abſolute deſtruction of the
+<pb n="11" facs="tcp:161253:7"/>
+beſt of Creatures, unto which he hath given corporall being and preſervation. Therefore, (I think) you may attribute this confidence to more then Jewiſh arrogance, or to the ſuperſti<g ref="char:EOLhyphen"/>tious vanity of ſome Phariſaicall Zealots, who, by the prolixi<g ref="char:EOLhyphen"/>ty of a battalogious Prayer are ſtill ſoliciting the great Jeho<g ref="char:EOLhyphen"/>vah (as the worſt of Gentiles did their Jupiter) to intereſſe himſelf in their undertakings; never truly examining their pre<g ref="char:EOLhyphen"/>ſent eſtate &amp; action. But be it vitious, or unlawfull, they im<g ref="char:EOLhyphen"/>plore his ayde) as doe alſo thieves, traytors, and murtherers) whenſoever their weakneſſe wanteth aſſiſtance; yea, they bold<g ref="char:EOLhyphen"/>ly promiſe that unto themſelves, which appertaineth not, but to the humble, wiſe, and upright, When they are conſiderative<g ref="char:EOLhyphen"/>ly active, &amp; impartially affected in their machinations. Second<g ref="char:EOLhyphen"/>ly, <hi>tractatu dura,</hi> State-affaires are ſo intricate, that the ableſt Statiſts can never ſo canvaſe every ſeame in the peace conclu<g ref="char:EOLhyphen"/>ded, but that they leave ſome ſcope of quarrell, which may by Politicians be eaſily pickt from ſome particulars in the Arti<g ref="char:EOLhyphen"/>cles. What hope ſoever then you have, of faire and ready paſ<g ref="char:EOLhyphen"/>ſage, yet once entred, you ſhall find them ſo ſeverall, caſuall, &amp; confounded, as will dazle and aſtoniſh your ſpirits, with the conſideration of ſo many, divers, &amp; contrary luſters, except it prove ſo, I will ever hereafter aſſert that leſſer, <hi>vivacious ſpirits and vulgar wits, are found more fit and happy for the mannagery of State-affaires.</hi>
+                     </p>
+                     <p>
+                        <hi>Therefore if you preſume upon the firſt appearance repreſented a far off, and meet not that which is ſeven times worſe then the ſonne of Anak, before you arrive at your Earthly Chanaan; then let all the people ever look upon me as a falſe Prophet, knowing nothing at the preſent, and yet preſuming of the future, which is indeed but a vehement opinion, though violent in perſwaſion, and ſo tranſporting me; becauſe I ſtrongly conceit, whatſoever cleare<g ref="char:EOLhyphen"/>neſſe of truth, or forme of happy conſtitution you do fancie, when e<g ref="char:EOLhyphen"/>ver you reach towards it by actuall attempt and reſolution, many difficulties will impeach your paſſage, and new Quaries will ſtart up, able to ſtray, loſe or beſet you. Thirdly, Eventu triſtia, If you glory in any ſucceſſe hitherto, or ſome of you like him in the</hi> 52 <hi>Pſalm. You are in that beholden to the worſt and vileſt of the ma<g ref="char:EOLhyphen"/>lignants. For had not their innovating in Church and State, occa<g ref="char:EOLhyphen"/>ſſioned
+<pb n="12" facs="tcp:161253:8"/>
+grievous ſuſpitions againſt his Majeſty, in the mindes of quiet, moderate; and truly conſcientious men, then had your Army been ſtop in the current, before any expenſe of treaſure &amp; bloud: you be ſo taken with their accidentall efficacy (by which you are fand have been of ſecret eſteeme) that you will freely endeavour to fulfill the Propheſie of plaine Engliſh (who in a godly manner ex<g ref="char:EOLhyphen"/>plodeth Monarchy, when he had adminiſtred, both matter and oc<g ref="char:EOLhyphen"/>caſion to the ſame) And ſo in way of recompence; kindly gratifie how, either by advancing their tyrannie, or (as they ſcornfully ſpeake) your own, both policy and dependant Anarchy. Then take heed, that you prove not as a candle burnt to the ſocket, flaſhing with more then its ordinary light, but preſently extinct, leaving alſo an ill ſent, and unpleaſant favour behind it. If this be the beſt fruit of your firſt and lateſt baffling (whereby all Magiſtrates have been diſgraced, all lawes ſubverted, the Kingdom embroyled, our treaſure exhauſted, and now more then ever, the minds of peo<g ref="char:EOLhyphen"/>ple chafed &amp; imbittered, with almoſt in expiable hatred one a<g ref="char:EOLhyphen"/>gainſt one another.) Then ſure (in my conceit) neither your firſt nor laſt motion or mannagery was either from God, or according to him. Tis true, by your paſſionate ſtickling, and multiplicity of phantaſticall opinions, you have armed them with more argu<g ref="char:EOLhyphen"/>ments for Popery, &amp; tyrannie, then any of them before your ſtiring did falſly underſtand. But if you make them our maſters, it will be concluded, that ignorance, envie, pride, &amp; avarice, ruleth the ſtern of your actions, whileſt tenderneſſe of conſcience is meerly preten<g ref="char:EOLhyphen"/>ded.</hi>
+                     </p>
+                     <p>
+                        <hi>Moreover, you are the men chiefly inſiſted upon, as the onely ſeditious &amp; turbulent ſpirits, contemptible in number, inconſide<g ref="char:EOLhyphen"/>rable in fortune and reputation But ſo uni<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ed conſpiracy againſt ecular Majeſty, as to carry on a monſtrous deſigne to the admira<g ref="char:EOLhyphen"/>tion of Europe, for the which you might (perchance) have bin late<g ref="char:EOLhyphen"/>ly ſacrificed, to pacifie the wrath of ſome kind of people, &amp; expiate the offence of your ſelve &amp; others, in hope of conciliating the King into better conditions, if not unto the Nationall Covenant.</hi>
+                     </p>
+                     <p>Had not your active vigilance ſo opportunely taken oc<g ref="char:EOLhyphen"/>caſion by the foretop, which never ſince as it is ſaid you wiſt how to uſe, or well to improve <hi>I.E.</hi> ſo wiſely, honeſtly, &amp; lawfully, that without injuſtice or cruelty, you might accom<g ref="char:EOLhyphen"/>pliſh
+<pb n="13" facs="tcp:161253:8"/>
+ſuch an alteration, as ſhould not onely afford univerſal ſatisfaction, but alſo exalt our untappy Albion, unto more then priſtine repute amongſt all thoſe Nations where ſhe is now deſpiſed. Herein you are comparable into Hanniball, but I hope in heart and ſpirit, you will at the length prove parallel to theſe gallant honeſt ſpirits, in ancient and moſt excellent times, both <hi>Greekes</hi> and <hi>Romans;</hi> That have al<g ref="char:EOLhyphen"/>wayes lightly eſteemed all their own, in relation to the gen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>rall intereſt of their Countrey; for elſe you can never be fra<g ref="char:EOLhyphen"/>med to any friendly compoſure. And if you intend to quar<g ref="char:EOLhyphen"/>rell by ſtanding; for I ſuppoſe, that in condemning all ty<g ref="char:EOLhyphen"/>ranny over the ſpirit, you do not denye but that our eſtate, actions, travell and life, ought to be accomodate to the ſer<g ref="char:EOLhyphen"/>vice of humane ſociety, and alwayes reſponſible unto juſtice, and the common opinion, when cuſtome and law hath con<g ref="char:EOLhyphen"/>firmed it; for you know not what (beſides the tenderneſſe of your Conſcience) then you will (in my fancy) find it a moſt dangerous and deſperate buſineſſe wherein you can never ſecure, much leſſe exalt your own perſons; except your conſci<g ref="char:EOLhyphen"/>ences be ſo far cauterized, as to adventure your ſelvs for glory and profit, as if it were for the opinion of the Goſpel of Je<g ref="char:EOLhyphen"/>ſus Chriſt, and in that vigour of ſpirit or extravagance, freely to reſolve upon more helliſh villanies then ever <hi>Matchiavil</hi> could deviſe, or any tyrant, or traytor put in practiſe. And all this upon ſuch uncertainty, as can never yeeld any unde<g ref="char:EOLhyphen"/>fraimed aſſurance to the ſpirit, nor the leaſt of ſanctuary to the perſon, in every place, with mortall hatred, all wayes purſued, except you hope to captivate all your own Coun<g ref="char:EOLhyphen"/>treymen, of different or contrary minds; and with remorce<g ref="char:EOLhyphen"/>leſſe cruelty to mortifie the diſtaſted, and un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>amed ſpirits of the <hi>Engliſh;</hi> into more then Turkiſh ſtupidity, that they may freely bow, as the elder Camells, to all burdens which are offered them.</p>
+                     <p>Vpon which promiſes, may I not well ſay, that ſo long as you are led on, by paradoxicall humouriſts, and philodoxi<g ref="char:EOLhyphen"/>call opinioniſts; or much enthrauled to your own ſingular, and municipall conceits, you will be found as unmeet for the mannaging of ſuch matters, as ever was meer ſouldier to
+<pb n="14" facs="tcp:161253:9"/>
+play the medico; and no more apt or able to deale with the troubled and law-broken ſtate of England; then is a Shop Prentice-boy, to back, ſit, and guide a skittiſh and looſe bro<g ref="char:EOLhyphen"/>ken Jade, when he hath neither bridle nor ſaddle, in which ſence, were it not againſt my practiſe to guide and controule, I would point you to a certaine Philoſophicall fancy much fitter (me thinketh) for you to ponder on, then for him, into whom the excellent Poet doth apply it.</p>
+                     <q>
+                        <l>Optat Ephippia bospiger, Optat arare caballus,</l>
+                        <l>Quam ſcit uter<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> libens aequm eſt exerceat artem.</l>
+                     </q>
+                     <p>
+                        <hi>This going tends ſomthing against the graine of my humour, I deſire to end as I began with inquiſition, giving you all ſcope and liberty to laſh and correct me, ſurely then tell me when I firſt heare from you; why, I may not juſtly denominate all thoſe gid<g ref="char:EOLhyphen"/>dibraind fellowes, whoſoever upon ſome appearance of truth preſented at diſtance to their underſtanding, are ſo far tranſpor<g ref="char:EOLhyphen"/>ted with preſumption of knowledge, that to promote or eſtabliſh their opinion, they will furiouſly attempt any alteration, without ever conſidering the danger of ſubverſion, and difficulty of redu<g ref="char:EOLhyphen"/>cing us to better condition,</hi> 2. <hi>Whether all ſuch arrogant ſimplici<g ref="char:EOLhyphen"/>ans (as thus uſurpe the authority of judging) are not in all reaſon obliged, not only to find the errour and fault of what they would aboliſh, but alſo the truth and utility of what they would bring in, and ſo to preſerve themſelves, (as Mr. Burton preffered to the Archbiſhop</hi>
+                        <note n="*" place="margin">Who for all the wit ſuppoſed in him by the ſuperſtitious adorers of wealth and dignity, had neither ſtrength of brain, nor ſpirit, to a<g ref="char:EOLhyphen"/>void the envy of peo<g ref="char:EOLhyphen"/>ple, in wrac<g ref="char:EOLhyphen"/>king his ma<g ref="char:EOLhyphen"/>lice upon him by a Parliament.</note>) <hi>with ropes about their neckes, as it was or<g ref="char:EOLhyphen"/>dained amongſt the Thurians, that if their device were not ap<g ref="char:EOLhyphen"/>proved of all, they ſhould preſently ſuffer due puniſhment for their ſeditious ſaucineſſe, and turbulant preſumption.</hi>
+                     </p>
+                     <p n="3">3. <hi>What do you think of the conceit of Calavius, that wiſe Magiſtrate in Capus, of whom we read in Sir</hi> Water Rawleys, <hi>was it not both ingenious and honeſt? yea ſuch as the ſage and prudent, many yeares ſince, might well have improved, to the cu<g ref="char:EOLhyphen"/>ring of many diſtempers, and preventing of thoſe disorders, by which we are become ſo diſtracted, that England is called the Bedlam of Europe, and London the Bedlam of England. Or whe<g ref="char:EOLhyphen"/>ther you deeme it either meet or poſſible, yet now to be put in practiſe. At one meane yet remaining for preventing the utter
+<pb n="15" facs="tcp:161253:9"/>
+ſubverſion of all Magiſtracie, upon which muſt follow great miſ<g ref="char:EOLhyphen"/>chiefe &amp; perdition, or the death of our body politike, by the ſudden operation of our mortall and inteſtine Diſeaſes. God have mercy on our Land, and graciouſly prevent theſe yet piteous turmoyles, &amp; hideous deſolations, which all your drivers of deſignes are drawing upon us: So that if we ſurvive this ſickneſſe, I ſhall not hereafter dispaire of any politicall condition, be the State never ſo toſſed to and fro with all manner of motions &amp; alterations: for were it not that I conceive the preſervation of a State, to exceed my appre<g ref="char:EOLhyphen"/>henſion, ſo that we may ſubſiſt beyond my imagination, I ſhould give our body for dead in no poſſibility of recovering, nor in age of any policy, to which purpoſe I have ſome ſpeciall arguments as Iopine; the ſpeculation whereof, makes mee often very penſive, And he who can without perturbation behold the now approach<g ref="char:EOLhyphen"/>ing ruines of his Countrie, exceedeth much the hight of my ſpirit mind or conſtancy. And thus in hope to find you courteous, pitti<g ref="char:EOLhyphen"/>full, and compaſſionate, as all true Chriſtians are and ought to be, I heartily bid you farewell, And (if I may uſurp your now famed compliment) ſubſcribe my ſelfe one of yours and the Kingdomes humble ſervants.</hi>
+                     </p>
+                     <closer>
+                        <signed>Richard Jackſon.</signed>
+                     </closer>
+                     <postscript>
+                        <head>POSTSCRIPT</head>
+                        <p>
+                           <hi>WHat an age do we now live in? that a private man muſt run a double danger, in indeavouring any thing towards the pub<g ref="char:EOLhyphen"/>like, of ſhame, and payne, reproach and puniſhment, the farther in ſeeming ambitious to be a foole or with perill ſeen <gap reason="illegible" resp="#UOM" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> print, the latter in attempting what is not tolerated by order of the State, that toucheth me a little, for ſo much as I feele no glory, but what is ſuperficiall, and infuſed by the treaſon of my complexion; for few there be from whom I may in reaſon expect ſo much as ap<g ref="char:EOLhyphen"/>probation; not from the very learned, becauſe I am not ſo pedan<g ref="char:EOLhyphen"/>ticall, as to imitate Mr.</hi> Prin, <hi>who is ever honouring his reading and memory, at the charge of his reaſon and underſtanding, not from Plebeians or meer Commoners, who can never diſcover the force or comlines, of a quaint, ſharpe, or ſolid diſcourſe, perchance amongſt the middle ſort, there may be found ſome well borne minds, or regular wits, ſtrong enough by their naturall temper to
+<pb n="16" facs="tcp:161253:10"/>
+take me in the right ſence, and then ſurely to afford me, either friendly rebuke, or elſe favour and protection. But this much troubleth me; who am exceeding deſirous in ſuch things, to be directed by the word, order, without further queſtion or inqui<g ref="char:EOLhyphen"/>ſition) that I now come out againſt it. Know therefore, that in o<g ref="char:EOLhyphen"/>bedience to unto order, I carryed my Papers unto the learned Licenſer, who after peruſall could not inſtance in any particular clauſe to be expunged, as containing matter either ſcandalous, rayling, or ſeditious; much leſſe ſavouring of hereſie, ſchiſme, or ſuperſtition. But the timorous old man durſt not meddle, becauſe times are ſo tickle: and many men of every party ſo waspiſh and touchy, with whoſe ſpite and envie I muſt now wreſtle, though unwilling to deale with ſuch an adverſary, who of old was dee<g ref="char:EOLhyphen"/>med inexpugnable; And unto whom it is to no purpoſe to ſpeake the truth Therefore in this raſhneſſe, partly occaſioned by my ſud<g ref="char:EOLhyphen"/>den departure into the Country,</hi> I <hi>appeale and freely ſubmit unto my proper Iudges in the Parliament, which I ſhall deſire to ho<g ref="char:EOLhyphen"/>nour, as wiſeſt councel or the juſteſt judicature: ſo God bleſſe me from the feare of all ſwearing Gameſters, who get their damnation by purchaſe.</hi>
+                        </p>
+                     </postscript>
+                  </body>
+               </floatingText>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>Curtious Reader. I deſire thee to paſſe by ſome faults eſcaped in Printing, by reaſon of the Authours abſence.</p>
+         </div>
+         <div type="colophon">
+            <p>Imprinted at LONDON, 1647.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
